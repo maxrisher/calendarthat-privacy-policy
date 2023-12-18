@@ -1,7 +1,7 @@
 # supercal-privacy-policy
 Privacy policy for supercalendar
 
-We collect user submitted calendar event text information. We use this data to improve our creation of calendar events.
+We collect user submitted text intended to generate calendar events. We use this data to improve our creation of calendar events from text.
 
 We do not sell any data to third parties.
 
