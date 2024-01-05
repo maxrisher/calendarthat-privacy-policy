@@ -1,5 +1,5 @@
-# supercal-privacy-policy
-Privacy policy for supercalendar
+# CalendarThat-privacy-policy
+Privacy policy for CalendarThat
 
 We collect user submitted text intended to generate calendar events. We use this data to improve our creation of calendar events from text.
 
